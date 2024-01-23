@@ -1,0 +1,26 @@
+<table>
+	 <thead>
+		<tr>
+		<th>#</th>
+		<th>property_title</th> 
+		<th>property_content</th>
+		<th>property_features</th>
+		<th>property_title</th> 
+		<th>property_price</th>
+		<th>property_qualifier</th>
+		<th>property_location</th> 
+		<th>property_frequency</th>
+		<th>property_category</th>
+        <th>property_images</th>
+        <th>property_brochure</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach($objs as $obj)
+		<tr>
+			<td>{{$obj['property_title']}}</td>
+			<td>{{$obj['property_content']}}</td>
+		</tr>
+		@endforeach
+	</tbody>
+</table>

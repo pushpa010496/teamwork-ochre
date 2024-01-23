@@ -1,0 +1,27 @@
+.header-color{
+  color:#17C2D7;
+}
+
+.header-style{
+      color: #17C2D7;
+    font-weight: 400;
+    font-size: 15px;
+}
+.teams-box{
+  background: #fff;
+  height: 350px;
+  max-height: 350px;
+  overflow-y: scroll;
+}
+.td-bg-hash,.table-bg-hash td{
+  background: #c7d9ec !important;
+}
+.max-height-555{
+  max-height: 555px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.font-12{
+  font-size: 12px !important;
+}

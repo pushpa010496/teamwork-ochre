@@ -1,0 +1,32 @@
+[
+    {
+        "property_title": "3 bed flat to rent",
+        "property_content": "Lorem Ipsum is simply dummy text of the printing and Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "property_features":
+            [
+                { "bedroom": 2},
+                { "bathroom": 1},
+                { "reception": 1},
+                { "property_type": "Flat"}
+            ],
+        "property_price": 2100,
+        "property_qualifier": "Guide Price",
+        "property_location": "160 Cann Hall Rd, London E11 3NH",
+        "property_frequency": "pcm",
+        "property_category": "Sale",
+        "property_images":
+            [
+                { "caption": "Kitchen", "path": "property1_1.jpg" },
+                { "caption": "Front Face", "path": "property1_2.jpg" },
+                { "caption": "Living room", "path": "property1_3.jpg" },
+                { "caption": "Bathroom", "path": "property1_4.jpg" },
+                { "caption": "Bedroom1", "path": "property1_5.jpg" },
+                { "caption": "Bedroom2", "path": "property1_6.jpg" },
+                { "caption": "Bedroom3", "path": "property1_7.jpg" }
+            ],
+        "property_brochure":
+            [
+                { "caption": "Brouchure", "path": "brouchure_1.pdf" }
+            ]        
+    }
+]
